@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Shigeru Kawai SK-5",
+    "price": 15000,
+    "imgUrl": "/imgs/kawai.jpg"
+},
+  {
+    "id": 2,
+    "name": "Steinway & Sons Model B",
+    "price": 15000,
+    "imgUrl": "/imgs/steinway.jpg"
+},
+  {
+    "id": 3,
+    "name": "YAMAHA CFX",
+    "price": 15000,
+    "imgUrl": "/imgs/yamaha.jpg"
+},
+  {
+    "id": 4,
+    "name": "FAZIOLI F183",
+    "price": 15000,
+    "imgUrl": "/imgs/fazioli.jpg"
+},
+  {
+    "id": 5,
+    "name": "Bechstein A160",
+    "price": 15000,
+    "imgUrl":"/imgs/bechstein.jpg"
+},
+  {
+    "id": 6,
+    "name": "Bösendorfer 380VC",
+    "price": 15000,
+    "imgUrl": "/imgs/bosendorfer.jpg"
+  }
+]
